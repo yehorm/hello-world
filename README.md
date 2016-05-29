@@ -1,2 +1,3 @@
 # hello-world
-Write a short description
+
+Hi there! I like C#, Wordpress, Drupal, jQuery and modern web technologies.
